@@ -1,4 +1,4 @@
-# Divertidamente
+# Divertidamente Atividade
 
 <p align="center">
     <img src="./src/divertida-mente.jpg"><br>
